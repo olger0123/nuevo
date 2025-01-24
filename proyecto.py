@@ -21,7 +21,7 @@ def main():
     st.markdown("""
     
     Puedes acceder al notebook en Google Colab haciendo clic en el siguiente enlace:
-    [Abrir en Google Colab](https://github.com/olger0123/nuevo/blob/28262ceaef5bead2bebf434c127a2e78000fc827/Energias_renovables_GRUPO13.ipynb<TU_ID_DEL_NOTEBOOK>)
+    [Abrir en Google Colab](https://github.com/olger0123/nuevo/blob/28262ceaef5bead2bebf434c127a2e78000fc827/Energias_renovables_GRUPO13.ipynb)
     """,
     unsafe_allow_html=True
      )
